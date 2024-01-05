@@ -1,6 +1,6 @@
 ### Hi there, I'm Taha. :blush:
 
-### The languages I actively work in are Python, PHP, HTML5, CSS3, JS. And the areas I want to learn are Laravel and Vue.js.
+### The languages I actively work in are  PHP(Laravel), HTML5, CSS3, JS(Vue.js).
 
 ## Jr. Software Developer | PHP 
 
@@ -19,13 +19,16 @@
 
 ### Tech I Use 
 
-<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/php/php.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/python/python.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/html/html.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/css/css.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/javascript/javascript.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/mysql/mysql.png" width="25" height="25">
-
+<div style="display:flex;">
+  <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/php/php.png" width="25" height="25">
+  <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="25" height="25">
+   <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/symfony/symfony.png" width="25" height="25">
+  <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/html/html.png" width="25" height="25">
+  <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/css/css.png" width="25" height="25">
+  <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/javascript/javascript.png" width="25" height="25">
+  <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/vue/vue.png" width="25" height="25">
+  <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/mysql/mysql.png" width="25" height="25">
+</div>
 
 [instagram]: https://www.instagram.com/ihftaha/
 [twitter]: https://twitter.com/ZaruKondi
