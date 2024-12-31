@@ -2,7 +2,7 @@
 
 ### The languages I actively work in are  PHP(Laravel), HTML5, CSS3, JS(Vue.js).
 
-## Jr. Software Developer | PHP 
+## Software Developer | PHP 
 
 
 
@@ -27,7 +27,9 @@
   <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/css/css.png" width="25" height="25">
   <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/javascript/javascript.png" width="25" height="25">
   <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/vue/vue.png" width="25" height="25">
+  <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/nuxt/nuxt.png" width="25" height="25">
   <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/mysql/mysql.png" width="25" height="25">
+  <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/mongodb/mongodb.png" width="25" height="25">
 </div>
 
 [instagram]: https://www.instagram.com/ihftaha/
