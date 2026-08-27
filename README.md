@@ -4,11 +4,6 @@
 
 ## Software Developer | PHP |  JAVA
 
-### Reach out to me 
-
-<br />
-<br />
-
 ### Tech I Use 
 
 <div style="display:flex;">
